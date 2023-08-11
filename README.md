@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-waqas-489876135/](https://www.linkedin.com/in/muhammad-waqas-489876135/)
 
-- 📝 I regularly write articles on [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/muhammad-waqas-489876135/](https://www.linkedin.com/in/muhammad-waqas-489876135/)
 
 - 💬 Ask me about **React , Node**
 
 - 📫 How to reach me **contattoshahidkhan@gmail.com**
 
-- 📄 Know about my experiences [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-waqas-489876135/](https://www.linkedin.com/in/muhammad-waqas-489876135/)
 
 - ⚡ Fun fact **I Have To Be The BESt ! 😍**
 
