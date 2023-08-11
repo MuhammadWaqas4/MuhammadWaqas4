@@ -1,5 +1,5 @@
 <!-- ![logo](github.com.shahid09pic) -->
-<h1 align="center">Hi 👋, I'm Shahid</h1>
+<h1 align="center">Hi 👋, I'm Waqas</h1>
 
 <h3 align="center">A Passionate Backend Developer From Pakistan</h3>
 
