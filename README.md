@@ -1,13 +1,13 @@
-<!-- ![logo](github.com.shahid09pic) -->
+<!-- ![logo](github.com/MuhammadWaqas4) -->
 <h1 align="center">Hi 👋, I'm Waqas</h1>
 
 <h3 align="center">A Passionate Blockchain backend Developer From Pakistan</h3>
 
 <img align="right" alt="coding" with="400" height="500" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidkhan09&label=Profile%20views&color=0e75b6&style=flat" alt="shahidkhan09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadWaqas4&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadWaqas4" /> </p>
 
-- 🔭 I’m currently working on **Life Hacks**
+- 🔭 I’m currently working on **Privacy on Blockchain**
 
 - 🌱 I’m currently learning **Next.js**
 
