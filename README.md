@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React , Node Blockchain, Web3, Solidity**
+- 💬 Ask me about **React.js , Node.js, Blockchain, Web3, Solidity**
 
 - ⚡ Fun fact **I Have To Be The BESt ! 😍**
 
