@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Waqas</h1>
 
 <h3 align="center">Blockchain Backend Engineer | Privacy-first Web3 Developer</h3>
@@ -37,9 +36,23 @@
 
 ## 🔗 Connect
 
-- Twitter: https://twitter.com/project_by_elia
-- Facebook: https://www.facebook.com/waqasbashir97?mibextid=ZbWKwL
-- Instagram: https://www.instagram.com/chain_vikee/
+<p align="left">
+  <a href="https://twitter.com/project_by_elia" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/waqasbashir97?mibextid=ZbWKwL" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/chain_vikee/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Email" width="30" height="30"/>
+  </a>
+</p>
 
 ---
 
