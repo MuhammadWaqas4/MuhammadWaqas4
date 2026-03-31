@@ -29,7 +29,6 @@ I work at the intersection of blockchain and backend engineering, with a strong 
 ## Connect
 
 - GitHub: [MuhammadWaqas4](https://github.com/MuhammadWaqas4)
-- Twitter: [@project_by_elia](https://twitter.com/project_by_elia)
 
 ## Open To
 
