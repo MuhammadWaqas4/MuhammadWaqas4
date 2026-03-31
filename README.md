@@ -1,82 +1,36 @@
-<h1 align="center">Hi 👋, I'm Waqas</h1>
+# Waqas
 
-<h3 align="center">Blockchain Backend Engineer | Privacy-first Web3 Developer</h3>
+Senior Blockchain Backend Engineer building secure Web3 infrastructure, privacy-focused systems, and reliable backend services.
 
-<img align="right" alt="coding" width="400" height="500" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif"/>
+I work at the intersection of blockchain and backend engineering, with a strong focus on correctness, security, and production readiness. My interests include privacy-preserving architectures, smart contract integrations, resilient APIs, and decentralized identity.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadWaqas4&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadWaqas4" />
-</p>
+## What I Focus On
 
-- 🔭 Currently focused on: **Privacy on blockchain and resilient backend systems**
-- 🌱 Learning: **Next.js, zk-tech, and decentralized identity**
-- 💬 Ask me about: **React.js, Node.js, Blockchain, Web3, Solidity**
-- ⚡ Fun fact: **I always aim to improve and ship high-quality code**
+- Designing backend systems that support blockchain applications at scale
+- Building secure APIs and services around smart contracts and Web3 workflows
+- Exploring privacy-first infrastructure, zk-related ideas, and decentralized identity
+- Shipping maintainable systems with strong engineering standards
 
----
+## Core Stack
 
-## 💼 About me
-
-- Passionate backend engineer from Pakistan
-- Building secure APIs and privacy tooling for Web3
-- Open-source contributor in blockchain ecosystem
-- Strong emphasis on correctness, security, and scale
-
----
-
-## 🛠️ Tech stack
-
-- **Backend:** Node.js, Express, NestJS, Laravel
 - **Blockchain:** Solidity, Hardhat, Ethers.js, Web3.js
-- **DB:** MongoDB, PostgreSQL, Redis
+- **Backend:** Node.js, Express, NestJS, Laravel
+- **Data:** PostgreSQL, MongoDB, Redis
+- **Frontend:** React, Next.js, Tailwind CSS
 - **DevOps:** Docker, GitHub Actions, CI/CD
-- **Frontend:** React, Next.js, Tailwind, Bootstrap
 
----
+## Engineering Priorities
 
-## 🔗 Connect
+- Security and correctness over shortcuts
+- Clean architecture and maintainable codebases
+- Reliable integrations and resilient backend services
+- Continuous learning across Web3 and modern backend systems
 
-<p align="left">
-  <a href="https://twitter.com/project_by_elia" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
-  </a>
-</p>
+## Connect
 
----
+- GitHub: [MuhammadWaqas4](https://github.com/MuhammadWaqas4)
+- Twitter: [@project_by_elia](https://twitter.com/project_by_elia)
 
-## 🧩 Languages and Tools
+## Open To
 
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-</p>
-
-
+Senior blockchain, backend, and Web3 engineering opportunities where security, scalability, and thoughtful system design matter.
