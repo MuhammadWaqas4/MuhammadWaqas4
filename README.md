@@ -1,30 +1,91 @@
-# Waqas
+<div align="center">
 
-Senior Blockchain Backend Engineer building secure Web3 infrastructure, privacy-focused systems, and reliable backend services.
+# Waqas Muhammad
 
-I work at the intersection of blockchain and backend engineering, with a strong focus on correctness, security, and production readiness. My interests include privacy-preserving architectures, smart contract integrations, resilient APIs, and decentralized identity. I specialize in implementing reentrancy guards, upgradeable contracts using patterns like UUPS and Diamond proxy, and leveraging latest EIPs such as EIP-712 for ECDSA-based signatures to enhance security and functionality in decentralized applications.
+### Senior Blockchain Backend Engineer | Privacy-First Builder
 
-## What I Focus On
+<p>
+  Building secure Web3 infrastructure, privacy-focused systems, and reliable backend services with a focus on reentrancy guards, upgradeable contracts, and latest EIPs like EIP-712 for ECDSA.
+</p>
 
-- Designing backend systems that support blockchain applications at scale, incorporating zero-knowledge proofs and decentralized autonomous organizations (DAOs)
-- Building secure APIs and services around smart contracts and Web3 workflows, with emphasis on reentrancy guards and upgradeable contract patterns
-- Exploring privacy-first infrastructure, zk-related ideas, decentralized identity, and integration of EIP-712 for ECDSA signatures
-- Shipping maintainable systems with strong engineering standards, utilizing non-fungible tokens (NFTs) and cross-chain interoperability
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadWaqas4&label=Profile%20Views&color=0f766e&style=flat" alt="Profile views" />
+</p>
 
-## Core Stack
+<p>
+  <a href="#-about-me">About Me</a> •
+  <a href="#-currently-focused-on">Current Focus</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-github-analytics">GitHub Analytics</a> •
+  <a href="#-lets-connect">Connect</a>
+</p>
 
-- **Blockchain:** Solidity, Hardhat, Ethers.js, Web3.js, Foundry, OpenZeppelin
-- **Backend:** Node.js, Express, NestJS, Laravel, GraphQL
-- **Data:** PostgreSQL, MongoDB, Redis, IPFS
-- **Frontend:** React, Next.js, Tailwind CSS, Web3.js
-- **DevOps:** Docker, GitHub Actions, CI/CD, Kubernetes
+</div>
 
-## Engineering Priorities
+---
 
-- Security and correctness over shortcuts, implementing reentrancy guards and audit-ready code
-- Clean architecture and maintainable codebases with upgradeable contracts and Diamond proxy patterns
-- Reliable integrations and resilient backend services, leveraging EIP-712 for ECDSA and decentralized identity
-- Continuous learning across Web3 and modern backend systems, including zero-knowledge proofs and NFT standards
+## About Me
+
+I am a blockchain and Web3 developer who enjoys building products across the full stack, from smart contracts to frontend experiences. My strongest interest is in privacy-first systems, especially the kind of on-chain products that feel simple for users and serious about security underneath. I specialize in implementing reentrancy guards, upgradeable contracts using patterns like UUPS and Diamond proxy, and leveraging latest EIPs such as EIP-712 for ECDSA-based signatures, EIP-20 (ERC-20) for fungible tokens, EIP-721 for non-fungible tokens (NFTs), EIP-1155 for multi-token standards, EIP-1559 for improved gas fee mechanisms, and EIP-3643 for tokenized real-world assets (RWA) to enhance security and functionality in decentralized applications.
+
+- Building: Privacy solutions on blockchain, RWA integrations, and DeFi platforms
+- Learning: Next.js, zero-knowledge proofs, and cross-chain interoperability
+- Open to: DeFi platforms, NFT products, privacy-focused dApps, and RWA tokenization
+- Comfortable with: `Solidity`, `Node.js`, `React.js`, `Web3.js`, `Blockchain`, `EIP-712`, `Reentrancy Guards`
+- Mindset: Ambitious, curious, and committed to getting better every day
+
+## Currently Focused On
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Privacy & Security</h3>
+      <p>Designing blockchain experiences with reentrancy guards, EIP-712 for ECDSA, and privacy-preserving architectures where user protection is a core feature.</p>
+    </td>
+    <td width="33%">
+      <h3>Smart Contracts & EIPs</h3>
+      <p>Building practical Solidity systems with clean logic, security awareness, production intent, and compliance with EIPs like EIP-3643 for RWA and EIP-721 for NFTs.</p>
+    </td>
+    <td width="33%">
+      <h3>Modern Frontends & Backends</h3>
+      <p>Creating responsive interfaces with React and Next.js, and resilient APIs with Node.js and NestJS for products that feel human on top of complex tech.</p>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+### Blockchain and Web3
+![Solidity](https://img.shields.io/badge/Solidity-1f2937?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-111827?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-f97316?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-facc15?style=for-the-badge&logo=hardhat&logoColor=111827)
+![Foundry](https://img.shields.io/badge/Foundry-1f2937?style=for-the-badge&logo=foundry&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-1f2937?style=for-the-badge&logo=openzeppelin&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d4ed8?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=111827)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend and Data
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-dc2626?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-15803d?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d4ed8?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc2626?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps and Tools
+![Docker](https://img.shields.io/badge/Docker-0284c7?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65c2cb?style=for-the-badge&logo=ipfs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## Projects
 
@@ -53,10 +114,37 @@ A mobile app where I worked on smart contracts and backend. [Live Link](https://
 - **Tomi Web3 SuperApp (iOS)**: 
 A mobile app where I worked on smart contracts and backend. [Live Link](https://apps.apple.com/us/app/tomi-web3-superapp/id1643501440)
 
-## Connect
+## GitHub Analytics
 
-- GitHub: [MuhammadWaqas4](https://github.com/MuhammadWaqas4)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadWaqas4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Waqas GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadWaqas4&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
-## Open To
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadWaqas4&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
-Senior blockchain, backend, and Web3 engineering opportunities where security, scalability, and thoughtful system design matter.
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadWaqas4&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0f6fc&area=true&area_color=2ea043" alt="GitHub contribution graph" />
+</div>
+
+## What I Am Building
+
+```solidity
+// Privacy first. Always. With EIP-712 and RWA in mind.
+pragma solidity ^0.8.0;
+
+contract WaqasMission {
+    string public passion = "Web3 and Blockchain";
+    string public focus = "Privacy, Reentrancy Guards, and RWA";
+    string public learning = "EIP-712, ZK Proofs, and Upgradeable Contracts";
+    bool public ambitious = true;
+
+    function motto() public pure returns (string memory) {
+        return "I have to be the best.";
+    }
+}
+```
