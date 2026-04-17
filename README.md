@@ -2,29 +2,29 @@
 
 Senior Blockchain Backend Engineer building secure Web3 infrastructure, privacy-focused systems, and reliable backend services.
 
-I work at the intersection of blockchain and backend engineering, with a strong focus on correctness, security, and production readiness. My interests include privacy-preserving architectures, smart contract integrations, resilient APIs, and decentralized identity.
+I work at the intersection of blockchain and backend engineering, with a strong focus on correctness, security, and production readiness. My interests include privacy-preserving architectures, smart contract integrations, resilient APIs, and decentralized identity. I specialize in implementing reentrancy guards, upgradeable contracts using patterns like UUPS and Diamond proxy, and leveraging latest EIPs such as EIP-712 for ECDSA-based signatures to enhance security and functionality in decentralized applications.
 
 ## What I Focus On
 
-- Designing backend systems that support blockchain applications at scale
-- Building secure APIs and services around smart contracts and Web3 workflows
-- Exploring privacy-first infrastructure, zk-related ideas, and decentralized identity
-- Shipping maintainable systems with strong engineering standards
+- Designing backend systems that support blockchain applications at scale, incorporating zero-knowledge proofs and decentralized autonomous organizations (DAOs)
+- Building secure APIs and services around smart contracts and Web3 workflows, with emphasis on reentrancy guards and upgradeable contract patterns
+- Exploring privacy-first infrastructure, zk-related ideas, decentralized identity, and integration of EIP-712 for ECDSA signatures
+- Shipping maintainable systems with strong engineering standards, utilizing non-fungible tokens (NFTs) and cross-chain interoperability
 
 ## Core Stack
 
-- **Blockchain:** Solidity, Hardhat, Ethers.js, Web3.js
-- **Backend:** Node.js, Express, NestJS, Laravel
-- **Data:** PostgreSQL, MongoDB, Redis
-- **Frontend:** React, Next.js, Tailwind CSS
-- **DevOps:** Docker, GitHub Actions, CI/CD
+- **Blockchain:** Solidity, Hardhat, Ethers.js, Web3.js, Foundry, OpenZeppelin
+- **Backend:** Node.js, Express, NestJS, Laravel, GraphQL
+- **Data:** PostgreSQL, MongoDB, Redis, IPFS
+- **Frontend:** React, Next.js, Tailwind CSS, Web3.js
+- **DevOps:** Docker, GitHub Actions, CI/CD, Kubernetes
 
 ## Engineering Priorities
 
-- Security and correctness over shortcuts
-- Clean architecture and maintainable codebases
-- Reliable integrations and resilient backend services
-- Continuous learning across Web3 and modern backend systems
+- Security and correctness over shortcuts, implementing reentrancy guards and audit-ready code
+- Clean architecture and maintainable codebases with upgradeable contracts and Diamond proxy patterns
+- Reliable integrations and resilient backend services, leveraging EIP-712 for ECDSA and decentralized identity
+- Continuous learning across Web3 and modern backend systems, including zero-knowledge proofs and NFT standards
 
 ## Projects
 
