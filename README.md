@@ -1,4 +1,4 @@
-# Waqas Muhammad
+# Waqas
 
 Senior Blockchain Backend Engineer building secure Web3 infrastructure, privacy-focused systems, and reliable backend services.
 
