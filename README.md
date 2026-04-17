@@ -28,18 +28,30 @@ I work at the intersection of blockchain and backend engineering, with a strong 
 
 ## Projects
 
-- **RiskMarkets**: A Web3 crash game platform where I developed the smart contract using UUPS upgradeable pattern and integrated with Chainlink nodes for customized data feeds. [Live Link](https://www.riskmarkets.fun/)
-- **Blackjack Market**: A Web3 crash game marketplace featuring a smart contract I wrote with UUPS upgradeable functionality. [Live Link](https://blackjack.market/)
-- **Gems VIP**: A token launchpad platform powered by a smart contract I developed using UUPS upgradeable pattern. [Live Link](https://gems.vip/)
-- **Rain One**: A Web3 prediction market platform with a smart contract I built using UUPS upgradeable pattern. [Live Link](http://rain.one/)
-- **Cash Tizzew**: A Web3 crash game market utilizing a smart contract I created following the Diamond proxy pattern. [Live Link](https://cash.tizzew.com/)
-- **DOP**: A privacy-first platform where I solely developed the smart contract and handled integrations with team members. [Live Link](http://dop.org/)
-- **Tomi**: An alternative Web3 platform. [Live Link](http://tomi.com/)
-- **Tomi Protocol DAO**: The DAO for Tomi Protocol. [Live Link](https://dao.tomi.com/home)
-- **Legion Network**: A blockchain super app offering metaverse experiences, play-and-earn games, watch-and-earn features, NFT minting, and early access to blockchain projects. I developed the smart contract. [Live Link](https://www.legionnetwork.io/)
-- **StableNFT**: A platform where I wrote the smart contract. [Live Link](https://stablenft.com/)
-- **Tomi Web3 SuperApp (Android)**: A mobile app where I worked on smart contracts and backend. [Live Link](https://play.google.com/store/apps/details?id=com.tomiapp.production)
-- **Tomi Web3 SuperApp (iOS)**: A mobile app where I worked on smart contracts and backend. [Live Link](https://apps.apple.com/us/app/tomi-web3-superapp/id1643501440)
+- **RiskMarkets**: 
+A Web3 crash game platform where I developed the smart contract using UUPS upgradeable pattern and integrated with Chainlink nodes for customized data feeds. [Live Link](https://www.riskmarkets.fun/)
+- **Blackjack Market**: 
+A Web3 crash game marketplace featuring a smart contract I wrote with UUPS upgradeable functionality. [Live Link](https://blackjack.market/)
+- **Gems VIP**: 
+A token launchpad platform powered by a smart contract I developed using UUPS upgradeable pattern. [Live Link](https://gems.vip/)
+- **Rain One**: 
+A Web3 prediction market platform with a smart contract I built using UUPS upgradeable pattern. [Live Link](http://rain.one/)
+- **Cash Tizzew**: 
+A Web3 crash game market utilizing a smart contract I created following the Diamond proxy pattern. [Live Link](https://cash.tizzew.com/)
+- **DOP**: 
+A privacy-first platform where I solely developed the smart contract and handled integrations with team members. [Live Link](http://dop.org/)
+- **Tomi**: 
+An alternative Web3 platform. [Live Link](http://tomi.com/)
+- **Tomi Protocol DAO**: 
+The DAO for Tomi Protocol. [Live Link](https://dao.tomi.com/home)
+- **Legion Network**: 
+A blockchain super app offering metaverse experiences, play-and-earn games, watch-and-earn features, NFT minting, and early access to blockchain projects. I developed the smart contract. [Live Link](https://www.legionnetwork.io/)
+- **StableNFT**: 
+A platform where I wrote the smart contract. [Live Link](https://stablenft.com/)
+- **Tomi Web3 SuperApp (Android)**: 
+A mobile app where I worked on smart contracts and backend. [Live Link](https://play.google.com/store/apps/details?id=com.tomiapp.production)
+- **Tomi Web3 SuperApp (iOS)**: 
+A mobile app where I worked on smart contracts and backend. [Live Link](https://apps.apple.com/us/app/tomi-web3-superapp/id1643501440)
 
 ## Connect
 
